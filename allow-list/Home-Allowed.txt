@@ -10,6 +10,6 @@
 ! Syntax: AdBlock
 ! Number of entries: 108
 !
-||tags.tiqcdn.com^
-||cdn.cookielaw.org^
-||sync.smartadserver.com^
+@@||tags.tiqcdn.com^
+@@||cdn.cookielaw.org^
+@@||sync.smartadserver.com^
